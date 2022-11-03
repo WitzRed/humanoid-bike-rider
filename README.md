@@ -1,6 +1,8 @@
 # humanoid-bike-rider
 This project Includes the materials create for the developement of our humanoid bike rider.
 
+https://www.scitepress.org/Papers/2019/77739/77739.pdf
+
 Citations:
 
 
