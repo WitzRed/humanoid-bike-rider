@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=PAA-fIjbb9Q
 
 Testing 3D Printable Humanoid Rider #3
 https://www.youtube.com/watch?v=QIu-1OhEkto
+
+
+We thank "Dr. Guero" for his great insigts:
+https://www.youtube.com/user/DrGuero2001
