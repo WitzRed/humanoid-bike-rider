@@ -28,3 +28,13 @@ Please use the following citation:
           doi       = {10.5220/0007773901650172}
     }
 
+Check out our demonstraion videos:
+
+3D Prinable Humanoid Rider #1
+https://www.youtube.com/watch?v=2ANicbNcGmM
+
+First time testing 3D Printable Humanoid Rider #2
+https://www.youtube.com/watch?v=PAA-fIjbb9Q
+
+Testing 3D Printable Humanoid Rider #3
+https://www.youtube.com/watch?v=QIu-1OhEkto
